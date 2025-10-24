@@ -1,4 +1,4 @@
-import type { Year, ContributionResult } from "./types";
+import type { Year, ContributionResult, AllContributionsResult } from "./types";
 import { SSSCalculator, PhilHealthCalculator, PagIBIGCalculator } from "./calculators";
 
 export class Contribution {
@@ -26,7 +26,7 @@ export class Contribution {
     return this.pagibig.calculate(salary);
   }
 
-  calculateAll(salary: number) {
+  calculateAll(salary: number): AllContributionsResult {
     const sss = this.getSSSContribution(salary);
     const philhealth = this.getPhilHealthContribution(salary);
     const pagibig = this.getPagIBIGContribution(salary);

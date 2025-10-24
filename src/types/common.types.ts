@@ -5,3 +5,10 @@ export type ContributionResult = {
   employer: number;
   total: number;
 };
+
+export type AllContributionsResult = {
+  sss: ContributionResult;
+  philhealth: ContributionResult;
+  pagibig: ContributionResult;
+  total: ContributionResult;
+};
