@@ -2,6 +2,9 @@
   "name": "govph-contributions",
   "version": "1.0.0",
   "description": "Philippine government contributions calculator (SSS, Pag-IBIG, PhilHealth)",
+  "author": "Kurt Russelle Marmol <jkurtrussellemarmol@gmail.com>",
+  "license": "ISC",
+  "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -41,9 +44,6 @@
     "health-insurance",
     "typescript"
   ],
-  "author": "Kurt Russelle Marmol <jkurtrussellemarmol@gmail.com>",
-  "license": "ISC",
-  "type": "module",
   "devDependencies": {
     "@eslint/js": "^9.38.0",
     "@vitest/coverage-v8": "^4.0.2",
@@ -64,6 +64,10 @@
     ".": {
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
+    },
+    "./*": {
+      "import": "./dist/*.js",
+      "types": "./dist/*.d.ts"
     }
   },
   "files": [
