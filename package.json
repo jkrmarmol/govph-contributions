@@ -11,7 +11,8 @@
     "dev": "npx tsx ./examples/basic-usage.ts",
     "dev:all": "npx tsx ./examples/all-contributions.ts",
     "dev:year": "npx tsx ./examples/custom-year.ts",
-    "build": "tsc",
+    "build": "tsc && node ./scripts/copy-data.js",
+    "copy:assets": "node ./scripts/copy-data.js",
     "clean": "rm -rf dist",
     "prebuild": "npm run clean",
     "typecheck": "tsc --noEmit",
@@ -64,10 +65,6 @@
     ".": {
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
-    },
-    "./*": {
-      "import": "./dist/*.js",
-      "types": "./dist/*.d.ts"
     }
   },
   "files": [
