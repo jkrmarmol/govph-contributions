@@ -61,12 +61,6 @@
     "typescript-eslint": "^8.46.2",
     "vitest": "^4.0.2"
   },
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.js"
-    }
-  },
   "files": [
     "dist",
     "README.md",
