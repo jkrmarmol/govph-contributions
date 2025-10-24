@@ -1,6 +1,6 @@
 {
   "name": "govph-contributions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Philippine government contributions calculator (SSS, Pag-IBIG, PhilHealth)",
   "author": "Kurt Russelle Marmol <jkurtrussellemarmol@gmail.com>",
   "license": "ISC",
