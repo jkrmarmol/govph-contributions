@@ -1,0 +1,1222 @@
+[
+  {
+    "rangeCompensation": {
+      "min": 0,
+      "max": 5250
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 500,
+        "mpf": null,
+        "ec": 10,
+        "total": 510
+      },
+      "employee": {
+        "regularSS": 250,
+        "mpf": null,
+        "total": 250
+      },
+      "total": 760
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 5250,
+      "max": 5749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 550,
+        "mpf": null,
+        "ec": 10,
+        "total": 560
+      },
+      "employee": {
+        "regularSS": 275,
+        "mpf": null,
+        "total": 275
+      },
+      "total": 835
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 5750,
+      "max": 6249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 600,
+        "mpf": null,
+        "ec": 10,
+        "total": 610
+      },
+      "employee": {
+        "regularSS": 300,
+        "mpf": null,
+        "total": 300
+      },
+      "total": 910
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 6250,
+      "max": 6749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 650,
+        "mpf": null,
+        "ec": 10,
+        "total": 660
+      },
+      "employee": {
+        "regularSS": 325,
+        "mpf": null,
+        "total": 325
+      },
+      "total": 985
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 6750,
+      "max": 7249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 700,
+        "mpf": null,
+        "ec": 10,
+        "total": 710
+      },
+      "employee": {
+        "regularSS": 350,
+        "mpf": null,
+        "total": 350
+      },
+      "total": 1060
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 7250,
+      "max": 7749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 750,
+        "mpf": null,
+        "ec": 10,
+        "total": 760
+      },
+      "employee": {
+        "regularSS": 375,
+        "mpf": null,
+        "total": 375
+      },
+      "total": 1135
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 7750,
+      "max": 8249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 800,
+        "mpf": null,
+        "ec": 10,
+        "total": 810
+      },
+      "employee": {
+        "regularSS": 400,
+        "mpf": null,
+        "total": 400
+      },
+      "total": 1210
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 8250,
+      "max": 8749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 850,
+        "mpf": null,
+        "ec": 10,
+        "total": 860
+      },
+      "employee": {
+        "regularSS": 425,
+        "mpf": null,
+        "total": 425
+      },
+      "total": 1285
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 8750,
+      "max": 9249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 900,
+        "mpf": null,
+        "ec": 10,
+        "total": 910
+      },
+      "employee": {
+        "regularSS": 450,
+        "mpf": null,
+        "total": 450
+      },
+      "total": 1360
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 9250,
+      "max": 9749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 950,
+        "mpf": null,
+        "ec": 10,
+        "total": 960
+      },
+      "employee": {
+        "regularSS": 475,
+        "mpf": null,
+        "total": 475
+      },
+      "total": 1435
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 9750,
+      "max": 10249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1000,
+        "mpf": null,
+        "ec": 10,
+        "total": 1010
+      },
+      "employee": {
+        "regularSS": 500,
+        "mpf": null,
+        "total": 500
+      },
+      "total": 1510
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 10250,
+      "max": 10749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1050,
+        "mpf": null,
+        "ec": 10,
+        "total": 1060
+      },
+      "employee": {
+        "regularSS": 525,
+        "mpf": null,
+        "total": 525
+      },
+      "total": 1585
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 10750,
+      "max": 11249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1100,
+        "mpf": null,
+        "ec": 10,
+        "total": 1110
+      },
+      "employee": {
+        "regularSS": 550,
+        "mpf": null,
+        "total": 550
+      },
+      "total": 1660
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 11250,
+      "max": 11749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1150,
+        "mpf": null,
+        "ec": 10,
+        "total": 1160
+      },
+      "employee": {
+        "regularSS": 575,
+        "mpf": null,
+        "total": 575
+      },
+      "total": 1735
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 11750,
+      "max": 12249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1200,
+        "mpf": null,
+        "ec": 10,
+        "total": 1210
+      },
+      "employee": {
+        "regularSS": 600,
+        "mpf": null,
+        "total": 600
+      },
+      "total": 1810
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 12250,
+      "max": 12749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1250,
+        "mpf": null,
+        "ec": 10,
+        "total": 1260
+      },
+      "employee": {
+        "regularSS": 625,
+        "mpf": null,
+        "total": 625
+      },
+      "total": 1885
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 12750,
+      "max": 13249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1300,
+        "mpf": null,
+        "ec": 10,
+        "total": 1310
+      },
+      "employee": {
+        "regularSS": 650,
+        "mpf": null,
+        "total": 650
+      },
+      "total": 1960
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 13250,
+      "max": 13749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1350,
+        "mpf": null,
+        "ec": 10,
+        "total": 1360
+      },
+      "employee": {
+        "regularSS": 675,
+        "mpf": null,
+        "total": 675
+      },
+      "total": 2035
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 13750,
+      "max": 14249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1400,
+        "mpf": null,
+        "ec": 10,
+        "total": 1410
+      },
+      "employee": {
+        "regularSS": 700,
+        "mpf": null,
+        "total": 700
+      },
+      "total": 2110
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 14250,
+      "max": 14749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1450,
+        "mpf": null,
+        "ec": 10,
+        "total": 1460
+      },
+      "employee": {
+        "regularSS": 725,
+        "mpf": null,
+        "total": 725
+      },
+      "total": 2185
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 14750,
+      "max": 15249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1500,
+        "mpf": null,
+        "ec": 30,
+        "total": 1530
+      },
+      "employee": {
+        "regularSS": 750,
+        "mpf": null,
+        "total": 750
+      },
+      "total": 2280
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 15250,
+      "max": 15749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1550,
+        "mpf": null,
+        "ec": 30,
+        "total": 1580
+      },
+      "employee": {
+        "regularSS": 775,
+        "mpf": null,
+        "total": 775
+      },
+      "total": 2355
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 15750,
+      "max": 16249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1600,
+        "mpf": null,
+        "ec": 30,
+        "total": 1630
+      },
+      "employee": {
+        "regularSS": 800,
+        "mpf": null,
+        "total": 800
+      },
+      "total": 2430
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 16250,
+      "max": 16749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1650,
+        "mpf": null,
+        "ec": 30,
+        "total": 1680
+      },
+      "employee": {
+        "regularSS": 825,
+        "mpf": null,
+        "total": 825
+      },
+      "total": 2505
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 16750,
+      "max": 17249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1700,
+        "mpf": null,
+        "ec": 30,
+        "total": 1730
+      },
+      "employee": {
+        "regularSS": 850,
+        "mpf": null,
+        "total": 850
+      },
+      "total": 2580
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 17250,
+      "max": 17749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1750,
+        "mpf": null,
+        "ec": 30,
+        "total": 1780
+      },
+      "employee": {
+        "regularSS": 875,
+        "mpf": null,
+        "total": 875
+      },
+      "total": 2655
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 17750,
+      "max": 18249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1800,
+        "mpf": null,
+        "ec": 30,
+        "total": 1830
+      },
+      "employee": {
+        "regularSS": 900,
+        "mpf": null,
+        "total": 900
+      },
+      "total": 2730
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 18250,
+      "max": 18749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1850,
+        "mpf": null,
+        "ec": 30,
+        "total": 1880
+      },
+      "employee": {
+        "regularSS": 925,
+        "mpf": null,
+        "total": 925
+      },
+      "total": 2805
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 18750,
+      "max": 19249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1900,
+        "mpf": null,
+        "ec": 30,
+        "total": 1930
+      },
+      "employee": {
+        "regularSS": 950,
+        "mpf": null,
+        "total": 950
+      },
+      "total": 2880
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 19250,
+      "max": 19749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 1950,
+        "mpf": null,
+        "ec": 30,
+        "total": 1980
+      },
+      "employee": {
+        "regularSS": 975,
+        "mpf": null,
+        "total": 975
+      },
+      "total": 2955
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 19750,
+      "max": 20249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": null,
+        "ec": 30,
+        "total": 2030
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": null,
+        "total": 1000
+      },
+      "total": 3030
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 20250,
+      "max": 20749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 50,
+        "ec": 30,
+        "total": 2080
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 25,
+        "total": 1025
+      },
+      "total": 3105
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 20750,
+      "max": 21249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 100,
+        "ec": 30,
+        "total": 2130
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 50,
+        "total": 1050
+      },
+      "total": 3180
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 21250,
+      "max": 21749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 150,
+        "ec": 30,
+        "total": 2180
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 75,
+        "total": 1075
+      },
+      "total": 3255
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 21750,
+      "max": 22249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 200,
+        "ec": 30,
+        "total": 2230
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 100,
+        "total": 1100
+      },
+      "total": 3330
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 22250,
+      "max": 22749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 250,
+        "ec": 30,
+        "total": 2280
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 125,
+        "total": 1125
+      },
+      "total": 3405
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 22750,
+      "max": 23249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 300,
+        "ec": 30,
+        "total": 2330
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 150,
+        "total": 1150
+      },
+      "total": 3480
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 23250,
+      "max": 23749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 350,
+        "ec": 30,
+        "total": 2380
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 175,
+        "total": 1175
+      },
+      "total": 3555
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 23750,
+      "max": 24249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 400,
+        "ec": 30,
+        "total": 2430
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 200,
+        "total": 1200
+      },
+      "total": 3630
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 24250,
+      "max": 24749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 450,
+        "ec": 30,
+        "total": 2480
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 225,
+        "total": 1225
+      },
+      "total": 3705
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 24750,
+      "max": 25249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 500,
+        "ec": 30,
+        "total": 2530
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 250,
+        "total": 1250
+      },
+      "total": 3780
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 25250,
+      "max": 25749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 550,
+        "ec": 30,
+        "total": 2580
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 275,
+        "total": 1275
+      },
+      "total": 3855
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 25750,
+      "max": 26249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 600,
+        "ec": 30,
+        "total": 2630
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 300,
+        "total": 1300
+      },
+      "total": 3930
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 26250,
+      "max": 26749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 650,
+        "ec": 30,
+        "total": 2680
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 325,
+        "total": 1325
+      },
+      "total": 4005
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 26750,
+      "max": 27249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 700,
+        "ec": 30,
+        "total": 2730
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 350,
+        "total": 350
+      },
+      "total": 4080
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 27250,
+      "max": 27749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 750,
+        "ec": 30,
+        "total": 2780
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 375,
+        "total": 1375
+      },
+      "total": 4155
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 27750,
+      "max": 28249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 800,
+        "ec": 30,
+        "total": 2830
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 400,
+        "total": 1400
+      },
+      "total": 4230
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 28250,
+      "max": 28749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 850,
+        "ec": 30,
+        "total": 2880
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 425,
+        "total": 1425
+      },
+      "total": 4305
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 28750,
+      "max": 29249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 900,
+        "ec": 30,
+        "total": 2930
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 450,
+        "total": 1450
+      },
+      "total": 4380
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 29250,
+      "max": 29749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 950,
+        "ec": 30,
+        "total": 2980
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 475,
+        "total": 1475
+      },
+      "total": 4455
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 29750,
+      "max": 30249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1000,
+        "ec": 30,
+        "total": 3030
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 500,
+        "total": 1500
+      },
+      "total": 4530
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 30250,
+      "max": 30749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1050,
+        "ec": 30,
+        "total": 3080
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 525,
+        "total": 1525
+      },
+      "total": 4605
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 30750,
+      "max": 31249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1100,
+        "ec": 30,
+        "total": 3130
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 550,
+        "total": 1550
+      },
+      "total": 4680
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 31250,
+      "max": 31749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1150,
+        "ec": 30,
+        "total": 3180
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 575,
+        "total": 1575
+      },
+      "total": 4755
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 31750,
+      "max": 32249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1200,
+        "ec": 30,
+        "total": 3230
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 600,
+        "total": 1600
+      },
+      "total": 4830
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 32250,
+      "max": 32749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1250,
+        "ec": 30,
+        "total": 3280
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 625,
+        "total": 1625
+      },
+      "total": 4905
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 32750,
+      "max": 33249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1300,
+        "ec": 30,
+        "total": 3330
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 650,
+        "total": 1650
+      },
+      "total": 4980
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 33250,
+      "max": 33749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1350,
+        "ec": 30,
+        "total": 3380
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 675,
+        "total": 1675
+      },
+      "total": 5055
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 33750,
+      "max": 34249.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1400,
+        "ec": 30,
+        "total": 3430
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 700,
+        "total": 1700
+      },
+      "total": 5130
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 34250,
+      "max": 34749.99
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1450,
+        "ec": 30,
+        "total": 3480
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 725,
+        "total": 1725
+      },
+      "total": 5205
+    }
+  },
+  {
+    "rangeCompensation": {
+      "min": 34750,
+      "max": null
+    },
+    "contributions": {
+      "employer": {
+        "regularSS": 2000,
+        "mpf": 1500,
+        "ec": 30,
+        "total": 3530
+      },
+      "employee": {
+        "regularSS": 1000,
+        "mpf": 750,
+        "total": 1750
+      },
+      "total": 5280
+    }
+  }
+]

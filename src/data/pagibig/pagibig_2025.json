@@ -1,0 +1,24 @@
+[
+  {
+    "monthlySalary": {
+      "min": 0,
+      "max": 1500
+    },
+    "rate": {
+      "employee": 1,
+      "employer": 2,
+      "total": 3
+    }
+  },
+  {
+    "monthlySalary": {
+      "min": 1500,
+      "max": 10000
+    },
+    "rate": {
+      "employee": 2,
+      "employer": 2,
+      "total": 4
+    }
+  }
+]

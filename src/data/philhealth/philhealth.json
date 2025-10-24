@@ -1,0 +1,50 @@
+[
+  {
+    "year": [2024, 2025],
+    "monthlyBasicSalary": {
+      "min": 10000,
+      "max": 100000
+    },
+    "premiumRate": 5.0
+  },
+  {
+    "year": [2023],
+    "monthlyBasicSalary": {
+      "min": 10000,
+      "max": 90000
+    },
+    "premiumRate": 4.5
+  },
+  {
+    "year": [2022],
+    "monthlyBasicSalary": {
+      "min": 10000,
+      "max": 80000
+    },
+    "premiumRate": 4
+  },
+  {
+    "year": [2021],
+    "monthlyBasicSalary": {
+      "min": 10000,
+      "max": 70000
+    },
+    "premiumRate": 3.5
+  },
+  {
+    "year": [2020],
+    "monthlyBasicSalary": {
+      "min": 10000,
+      "max": 60000
+    },
+    "premiumRate": 3.0
+  },
+  {
+    "year": [2021],
+    "monthlyBasicSalary": {
+      "min": 10000,
+      "max": 50000
+    },
+    "premiumRate": 2.75
+  }
+]

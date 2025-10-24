@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Format and lint staged files
+npx lint-staged
+
+# Type check the entire project
+npm run typecheck
+
+# Run only tests related to changed files
+npm run test -- --run --changed HEAD~1
